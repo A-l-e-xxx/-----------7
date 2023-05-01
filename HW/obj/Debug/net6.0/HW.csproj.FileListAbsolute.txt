@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\bin\Debug\net6.0\HW.exe
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\bin\Debug\net6.0\HW.deps.json
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\bin\Debug\net6.0\HW.dll
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\bin\Debug\net6.0\HW.pdb
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.dll
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\refint\HW.dll
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.pdb
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+C:\Users\Саша\Desktop\Гик\С# Семинар 7\HW\obj\Debug\net6.0\ref\HW.dll
